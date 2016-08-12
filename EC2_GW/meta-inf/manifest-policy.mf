@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+VersionComment: Original factory configuration (Policy)
+ChangedBy: admin
+Name: Default factory configuration for API Gateway (Policy)
+Description: Original factory configuration (Policy)
+Version: v1 (Policy)
+
