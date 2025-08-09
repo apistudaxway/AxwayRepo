@@ -1,0 +1,12 @@
+/workspace/GraphUserManagement/GraphUserManagement.Domain/bin/Debug/net8.0/GraphUserManagement.Domain.deps.json
+/workspace/GraphUserManagement/GraphUserManagement.Domain/bin/Debug/net8.0/GraphUserManagement.Domain.dll
+/workspace/GraphUserManagement/GraphUserManagement.Domain/bin/Debug/net8.0/GraphUserManagement.Domain.pdb
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.AssemblyInfoInputs.cache
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.AssemblyInfo.cs
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.csproj.CoreCompileInputs.cache
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.sourcelink.json
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.dll
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/refint/GraphUserManagement.Domain.dll
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/GraphUserManagement.Domain.pdb
+/workspace/GraphUserManagement/GraphUserManagement.Domain/obj/Debug/net8.0/ref/GraphUserManagement.Domain.dll
