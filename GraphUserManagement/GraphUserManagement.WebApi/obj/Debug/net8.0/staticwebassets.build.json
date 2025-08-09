@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "URWkop2RZkkNGDq1BnUyRzTVZ2UZxVYfbluxQtxhhMQ=",
+  "Source": "GraphUserManagement.WebApi",
+  "BasePath": "_content/GraphUserManagement.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

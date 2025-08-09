@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GraphUserManagement.Domain/1.0.0": {
+        "runtime": {
+          "GraphUserManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraphUserManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
