@@ -1,0 +1,12 @@
+/workspace/ExternalId.Domain/bin/Release/net8.0/ExternalId.Domain.deps.json
+/workspace/ExternalId.Domain/bin/Release/net8.0/ExternalId.Domain.dll
+/workspace/ExternalId.Domain/bin/Release/net8.0/ExternalId.Domain.pdb
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.AssemblyInfoInputs.cache
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.AssemblyInfo.cs
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.csproj.CoreCompileInputs.cache
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.sourcelink.json
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.dll
+/workspace/ExternalId.Domain/obj/Release/net8.0/refint/ExternalId.Domain.dll
+/workspace/ExternalId.Domain/obj/Release/net8.0/ExternalId.Domain.pdb
+/workspace/ExternalId.Domain/obj/Release/net8.0/ref/ExternalId.Domain.dll
