@@ -1,0 +1,16 @@
+/workspace/ExternalId.Application/bin/Release/net8.0/ExternalId.Application.deps.json
+/workspace/ExternalId.Application/bin/Release/net8.0/ExternalId.Application.dll
+/workspace/ExternalId.Application/bin/Release/net8.0/ExternalId.Application.pdb
+/workspace/ExternalId.Application/bin/Release/net8.0/ExternalId.Domain.dll
+/workspace/ExternalId.Application/bin/Release/net8.0/ExternalId.Domain.pdb
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.csproj.AssemblyReference.cache
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.AssemblyInfoInputs.cache
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.AssemblyInfo.cs
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.csproj.CoreCompileInputs.cache
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.sourcelink.json
+/workspace/ExternalId.Application/obj/Release/net8.0/External.3D6C2285.Up2Date
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.dll
+/workspace/ExternalId.Application/obj/Release/net8.0/refint/ExternalId.Application.dll
+/workspace/ExternalId.Application/obj/Release/net8.0/ExternalId.Application.pdb
+/workspace/ExternalId.Application/obj/Release/net8.0/ref/ExternalId.Application.dll
